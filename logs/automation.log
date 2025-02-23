@@ -1,12 +1,12 @@
-2025-02-18 10:26:54 INFO  Utils:112 - [TestNG] Running:
+2025-02-23 17:25:45 INFO  Utils:112 - [TestNG] Running:
   E:\Eclipse Project\OpenCartV121\Master.xml
 
-2025-02-18 10:27:00 INFO  TC002_LoginTest:16 - Starting TC002LoginTest*************************
-2025-02-18 10:27:01 INFO  TC002_LoginTest:29 - Welcome to My account pAge********************
-2025-02-18 10:27:01 INFO  TC002_LoginTest:44 - Fineshed the Test case**************************
-2025-02-18 10:27:03 INFO  TC001_AccountRegistrationTest:18 - Test Case001_ Started************************
-2025-02-18 10:27:03 INFO  TC001_AccountRegistrationTest:24 - clickMyAccount is happened
-2025-02-18 10:27:04 INFO  TC001_AccountRegistrationTest:28 - click register happened
-2025-02-18 10:27:04 INFO  TC001_AccountRegistrationTest:32 - Credential is added..................................
-2025-02-18 10:27:05 INFO  TC001_AccountRegistrationTest:47 - Validating expected message
-2025-02-18 10:27:05 INFO  TC001_AccountRegistrationTest:71 - Test case finished********************
+2025-02-23 17:25:50 INFO  TC002_LoginTest:16 - Starting TC002LoginTest*************************
+2025-02-23 17:25:51 INFO  TC002_LoginTest:29 - Welcome to My account pAge********************
+2025-02-23 17:25:51 INFO  TC002_LoginTest:44 - Fineshed the Test case**************************
+2025-02-23 17:25:53 INFO  TC001_AccountRegistrationTest:18 - Test Case001_ Started************************
+2025-02-23 17:25:53 INFO  TC001_AccountRegistrationTest:24 - clickMyAccount is happened
+2025-02-23 17:25:53 INFO  TC001_AccountRegistrationTest:28 - click register happened
+2025-02-23 17:25:53 INFO  TC001_AccountRegistrationTest:32 - Credential is added..................................
+2025-02-23 17:25:54 INFO  TC001_AccountRegistrationTest:47 - Validating expected message
+2025-02-23 17:25:54 INFO  TC001_AccountRegistrationTest:71 - Test case finished********************
